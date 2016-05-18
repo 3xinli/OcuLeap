@@ -5,6 +5,7 @@ The goal of our project is to realize a game that we can see it using the oculus
 http://devpost.com/software/oculeap-a-new-way-to-explore
 
 Instructions:
+
 1. Download Oculus Runtime for OS X      
 https://developer.oculus.com/downloads/pc/0.5.0.1-beta/Oculus_Runtime_for_OS_X/
 If we come across some errors, please visit 
